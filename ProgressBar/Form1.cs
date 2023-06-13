@@ -14,7 +14,7 @@ namespace ProgressBar
    
         private void button1_Click_1(object sender, EventArgs e)
         {
-            //progressBar -> Barra de progresso
+            //progressBar -> Barra de progresso.
             progressBar1.Minimum = 0;
             progressBar1.Maximum = 100;
             progressBar1.Value = 0; 
